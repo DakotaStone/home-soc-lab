@@ -314,6 +314,22 @@ Throughout this project, I gained hands-on experience with:
 
 One of the most valuable aspects of this project was troubleshooting Sysmon integration and log forwarding issues while building a centralized monitoring environment. Resolving these challenges provided practical experience that closely resembles real-world security operations work.
 
+## Detection Library
+
+The lab includes a growing collection of Splunk searches and detections used for monitoring and threat hunting.
+
+- [Basic Detection Searches](./detections/basic-detections.md)
+
+Current detections include:
+
+- Process Creation Monitoring
+- PowerShell Execution Detection
+- Failed Logon Detection
+- Successful Logon Detection
+- Account Creation Monitoring
+- Service Installation Detection
+- DNS Activity Monitoring
+
 ---
 
 ## Future Enhancements
